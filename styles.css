@@ -1,0 +1,68 @@
+body {
+  background-color: #393E46;
+  font-family: 'Neuton', serif;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 2rem;
+  color: #4ECCA3;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.25rem;
+  color: #4ECCA3;
+  margin-bottom: 0.5rem;
+}
+
+img {
+  width: 80%;
+}
+
+.rancho{
+  font-family: 'Rancho', cursive;
+}
+
+.gold{
+  color: gold;
+}
+
+.container {
+  width: 60%;
+}
+
+.input-span{
+  background-color: aquamarine;
+  border: 0;
+}
+
+.input-group-text, .form-control, .btn{
+  font-size: 1.15rem;
+}
+
+.crown{
+  width: 5%;
+}
+
+.score{
+  width: 10%;
+}
+
+.dice{
+  width: 30%;
+}
+
+.btn-play{
+  width: 15%;
+}
+
+.btn-play:hover{
+  background-color: aquamarine;
+}
+
+
